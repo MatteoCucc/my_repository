@@ -1,2 +1,2 @@
 first line of sum.txt
-bbbb22
+seconda riga
